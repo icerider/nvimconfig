@@ -1,0 +1,12 @@
+flake8
+greenlet
+jedi
+mccabe
+msgpack
+neovim
+parso
+pycodestyle
+pyflakes
+pynvim
+yapf
+
